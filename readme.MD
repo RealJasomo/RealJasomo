@@ -2,8 +2,12 @@
 
 ## About me
 
-- 💻 I am a full-stack web developer currently writing enterprise financial software in .NET and React
-- 🏫 I am a Junior at Rose-Hulman Institute of Technology studying Computer Science and Software Engineering
+- 💻 I am a Software Engineer with passion in:
+  - Full-stack Web Development with React, Typescript, Next, Go, .NET, and other web-based languages
+  - Deployment Strategy / DevOps with: Jenkins, Docker/Kubernetes, Cloud-Specific Pipelines(AWS and Azure), CloudFormation, and Terraform
+  - Cloud Infrastructure
+  - Machine Learning / Data Engineering with Python, Pandas, Tensorflow, Pytorch, SKLearn, etc.
+- 🏫 I am a Senior at Rose-Hulman Institute of Technology studying Computer Science
 
 ### Connect with me
 
