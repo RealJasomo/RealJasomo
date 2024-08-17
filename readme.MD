@@ -7,7 +7,7 @@
   - Deployment Strategy / DevOps with: Jenkins, Docker/Kubernetes, Cloud-Specific Pipelines(AWS and Azure), CloudFormation, and Terraform
   - Cloud Infrastructure
   - Machine Learning / Data Engineering with Python, Pandas, Tensorflow, Pytorch, SKLearn, etc.
-- 🏫 I am a Senior at Rose-Hulman Institute of Technology studying Computer Science
+- 💼 I work as a Senior Software Engineer at Capital One writing DevOps pipelines, managing CDN infrastructure, and writing business critical APIs 
 
 ### Connect with me
 
